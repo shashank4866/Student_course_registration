@@ -1,0 +1,155 @@
+.navbar{
+display:flex;
+justify-content:flex-front;
+background-color:black;
+padding:5px;
+}
+.nav-item{
+color:white;
+text-decoration:none;
+pading:100px 150px;
+}
+.navbar:hover {
+  opacity: 3;
+}
+.navbar{ 
+  opacity: 0.7;
+  }
+  body{
+        background-image: url('deer.jpg');
+        background-repeat: no-repeat;
+       background-size: 1600px;
+      
+        
+  }
+  .oval{
+      display:flex;
+justify-content:flex-front;
+  width: 100px;
+  height: 45px;
+  background-color:black;
+  border-radius: 29%;
+   overflow: hidden;
+  padding:12px 17px;
+  overflow: hidden;
+  text-align: center;
+  line-height: 70px;
+  font-size:15px;
+  font-weight: bold;
+  
+}
+.oval:hover {
+  opacity: 3;
+}
+.oval{
+  opacity: 0.6;
+  }
+  
+  .oval1 {
+      display:flex;
+justify-content:flex-front;
+  width: 500px;
+  height: 45px;
+  background-color:black;
+  border-radius: 29%;
+   overflow: hidden;
+  padding:12px 17px;
+  overflow: hidden;
+  text-align: center;
+  line-height: 70px;
+  font-size:15px;
+  font-weight: bold;
+  
+}
+.oval1:hover {
+  opacity: 4;
+}
+.oval1{
+  opacity: 0.6;
+  }
+   .oval2{
+      display:flex;
+justify-content:flex-front;
+  width: 200px;
+  height: 45px;
+  background-color:black;
+  border-radius: 29%;
+   overflow: hidden;
+  padding:12px 17px;
+  overflow: hidden;
+  text-align: center;
+  line-height: 70px;
+  font-size:15px;
+  font-weight: bold;
+  
+}
+.oval2:hover {
+  opacity: 3;
+}
+.oval2{
+  opacity: 0.7;
+  }
+  .link1:hover {
+  opacity: 3;
+}
+.link1{
+  opacity: 0.7;
+  }
+  .link2:hover {
+  opacity: 3;
+}
+.link2{
+  opacity: 0.7;
+  }
+  .link3:hover {
+  opacity: 3;
+}
+.link3{
+  opacity: 0.7;
+  }
+  .lo:hover {
+  opacity: 3;
+}
+.lo{ 
+  opacity: 0.7;
+  }
+  .btn{
+       background-color:#fff;
+       font-weight: bold;
+       padding: 2px 27px;
+      
+  }
+  .btn:hover {
+      background: darkred;
+      color: #fff;
+  opacity: 10;
+}
+.btn{ 
+  opacity: 0.7;
+}
+  .box{
+display:box;
+border:10px solid;
+justify-content:flex-middle;
+background-color:skyblue;
+padding:25px;
+width:250px;
+height:100px;
+margin:25px 50px 75px 100px;
+}
+table{
+    border-collapse: collapse;
+    width: auto;
+}
+ table tr:hover {
+    background-color: #f1f1f1;
+}
+  
+    
+}
+.c{
+color:black;
+padding:25px;
+margin:25px 50px 75px 100px;
+border:5px solid black;
+}
